@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ir.iranaca.classbook",
+        "sha256_cert_fingerprints": ["72:21:63:7F:CE:3C:A6:67:F2:25:D3:73:60:FF:7D:5E:64:BA:1A:05:6C:28:C9:88:98:DA:3A:B7:1E:27:EE:94"]
+      }
+    }]
